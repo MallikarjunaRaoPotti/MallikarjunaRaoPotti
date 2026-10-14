@@ -16,12 +16,12 @@
 
 ## About me
 
-I'm a Computer Science &amp; IT graduate who recently completed an **engineering internship at iCustomer**, where I validated, cleaned and reported on production and staging data with SQL and Power BI.
+I'm a Computer Science &amp; IT graduate who completed an **engineering internship at iCustomer** (June – October 2026), where I validated, cleaned and reported on production and staging data with SQL and Power BI.
 
 My personal projects follow the same rule: **build the pipeline first**, so the dashboard, the forecast or the model on top of it can actually be trusted. So far that has meant a Databricks medallion lakehouse with Prophet forecasting, a CNN-based accident-detection system that won a project expo, and a local AI job-search agent that enforces honest scoring in code.
 
 - **Now:** building [`job-application-agent`](https://github.com/MallikarjunaRaoPotti/job-application-agent) and sharpening SQL with [`sql-practice`](https://github.com/MallikarjunaRaoPotti/sql-practice)
-- **Experience:** Engineering Intern at iCustomer (internship completed)
+- **Experience:** Engineering Intern at iCustomer, June – October 2026
 - **Certified:** Microsoft Certified: Fabric Data Engineer Associate (May 2026)
 - **Looking for:** data engineering, analytics and applied ML roles
 
@@ -173,7 +173,7 @@ ETL and analysis on a messy 99,957-row retail dataset, ending in a clean, analys
 
 ## Experience &amp; credentials
 
-**Engineering Intern · iCustomer** <sub>Internship from June 2026 · completed</sub><br/>
+**Engineering Intern · iCustomer** <sub>June 2026 – October 2026</sub><br/>
 Validated, cleaned and reported on production and staging datasets with SQL and Power BI, working with engineering and data teams to keep pipelines accurate and consistent.
 
 **Microsoft Certified: Fabric Data Engineer Associate** <sub>May 2026</sub><br/>
