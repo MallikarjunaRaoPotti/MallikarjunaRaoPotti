@@ -25,16 +25,10 @@
   <style>
     .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     .mono { font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', Consolas, 'Liberation Mono', Menlo, monospace; }
-    .in { animation: in 0.9s ease-out both; }
-    .d1 { animation-delay: 0.05s; } .d2 { animation-delay: 0.2s; } .d3 { animation-delay: 0.35s; }
-    .d4 { animation-delay: 0.5s; } .d5 { animation-delay: 0.65s; } .d6 { animation-delay: 0.8s; }
-    @keyframes in { from { opacity: 0; } to { opacity: 1; } }
     .flow { stroke-dasharray: 3 9; animation: flow 1.1s linear infinite; }
     @keyframes flow { to { stroke-dashoffset: -24; } }
     .pulse { animation: pulse 2.6s ease-in-out infinite; }
     @keyframes pulse { 0%, 100% { opacity: 0.2; } 50% { opacity: 0.65; } }
-    .live { animation: live 2s ease-in-out infinite; }
-    @keyframes live { 0%, 100% { opacity: 0.15; } 50% { opacity: 0.5; } }
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
 
@@ -48,30 +42,30 @@
   <rect x="0.5" y="0.5" width="1199" height="459" rx="23.5" fill="none" stroke="#30363D"/>
 
   <!-- Identity -->
-  <text x="64" y="100" class="mono in d1" font-size="16" letter-spacing="4" fill="#22D3EE">DATA ENGINEER · ANALYTICS · APPLIED ML</text>
-  <text x="61" y="180" class="sans in d2" font-size="72" font-weight="800" letter-spacing="-1.5" fill="#E6EDF3">Mallikarjuna</text>
-  <text x="61" y="256" class="sans in d3" font-size="72" font-weight="800" letter-spacing="-1.5" fill="url(#accent)">Rao Potti</text>
-  <text class="sans in d4" font-size="19" fill="#8B949E">
+  <text x="64" y="100" class="mono" font-size="16" letter-spacing="4" fill="#22D3EE">DATA ENGINEER · ANALYTICS · APPLIED ML</text>
+  <text x="61" y="180" class="sans" font-size="72" font-weight="800" letter-spacing="-1.5" fill="#E6EDF3">Mallikarjuna</text>
+  <text x="61" y="256" class="sans" font-size="72" font-weight="800" letter-spacing="-1.5" fill="url(#accent)">Rao Potti</text>
+  <text class="sans" font-size="19" fill="#8B949E">
     <tspan x="64" y="306">I build the data pipeline first, so the dashboard, the</tspan>
     <tspan x="64" y="334">forecast or the model on top of it can actually be trusted.</tspan>
   </text>
 
   <!-- Credentials -->
-  <g class="in d5">
-    <rect x="64" y="374" width="300" height="40" rx="20" fill="#161B22" stroke="#30363D"/>
-    <circle cx="90" cy="394" r="9" fill="#3FB950" class="live"/>
-    <circle cx="90" cy="394" r="4.5" fill="#3FB950"/>
-    <text x="108" y="399" class="sans" font-size="15" fill="#C9D1D9">Engineering Intern · iCustomer</text>
+  <g>
+    <rect x="64" y="374" width="340" height="40" rx="20" fill="#161B22" stroke="#30363D"/>
+    <circle cx="90" cy="394" r="9" fill="none" stroke="#22D3EE" stroke-width="1.8"/>
+    <path d="M85.8 394.2l2.9 2.9 5.6-5.8" fill="none" stroke="#22D3EE" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="108" y="399" class="sans" font-size="15" fill="#C9D1D9">Engineering Intern · iCustomer · 2026</text>
 
-    <rect x="378" y="374" width="440" height="40" rx="20" fill="#161B22" stroke="#F5B942" stroke-opacity="0.45"/>
-    <text x="598" y="399" class="sans" font-size="15" fill="#C9D1D9" text-anchor="middle">Microsoft Certified: Fabric Data Engineer Associate</text>
+    <rect x="418" y="374" width="440" height="40" rx="20" fill="#161B22" stroke="#F5B942" stroke-opacity="0.45"/>
+    <text x="638" y="399" class="sans" font-size="15" fill="#C9D1D9" text-anchor="middle">Microsoft Certified: Fabric Data Engineer Associate</text>
 
-    <rect x="832" y="374" width="250" height="40" rx="20" fill="#161B22" stroke="#30363D"/>
-    <text x="957" y="399" class="sans" font-size="15" fill="#C9D1D9" text-anchor="middle">B.Tech CS &amp; IT · CGPA 8.4</text>
+    <rect x="872" y="374" width="250" height="40" rx="20" fill="#161B22" stroke="#30363D"/>
+    <text x="997" y="399" class="sans" font-size="15" fill="#C9D1D9" text-anchor="middle">B.Tech CS &amp; IT · CGPA 8.4</text>
   </g>
 
   <!-- Medallion pipeline -->
-  <g class="in d6">
+  <g>
     <rect x="720" y="56" width="424" height="280" rx="16" fill="#161B22" fill-opacity="0.85" stroke="#30363D"/>
     <circle cx="744" cy="82" r="5.5" fill="#F85149" fill-opacity="0.8"/>
     <circle cx="762" cy="82" r="5.5" fill="#D29922" fill-opacity="0.8"/>

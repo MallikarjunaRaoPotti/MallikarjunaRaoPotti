@@ -11,16 +11,17 @@
 <a href="https://portfolio-p5o1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjJEM0VFIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjkiLz48ZWxsaXBzZSBjeD0iMTIiIGN5PSIxMiIgcng9IjQiIHJ5PSI5Ii8%2BPHBhdGggZD0iTTMgMTJoMTgiLz48L2c%2BPC9zdmc%2B" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/mallikarjuna7"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0iIzIyRDNFRSI%2BPHJlY3QgeD0iMy41IiB5PSI5IiB3aWR0aD0iMy42IiBoZWlnaHQ9IjExLjUiIHJ4PSIuNiIvPjxjaXJjbGUgY3g9IjUuMyIgY3k9IjUuMiIgcj0iMi4xIi8%2BPHBhdGggZD0iTTEwIDloMy40djEuNmMuNi0xLjEgMi0xLjkgMy43LTEuOSAzLjEgMCAzLjkgMiAzLjkgNC43djcuMWgtMy42di02LjFjMC0xLjQtLjMtMi42LTEuOC0yLjZzLTIgMS4yLTIgMi42djYuMUgxMHoiLz48L2c%2BPC9zdmc%2B" alt="LinkedIn" /></a>
 <a href="mailto:mallikarjunraopotti@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Ongole,_India-161B22?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTEyIDIuNWE3IDcgMCAwIDAtNyA3YzAgNS4yIDcgMTIgNyAxMnM3LTYuOCA3LTEyYTcgNyAwIDAgMC03LTd6bTAgOS42YTIuNiAyLjYgMCAxIDEgMC01LjIgMi42IDIuNiAwIDAgMSAwIDUuMnoiIGZpbGw9IiMyMkQzRUUiLz48L3N2Zz4%3D" alt="Ongole, India" />
+<img src="https://img.shields.io/badge/Hyderabad,_India-161B22?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTEyIDIuNWE3IDcgMCAwIDAtNyA3YzAgNS4yIDcgMTIgNyAxMnM3LTYuOCA3LTEyYTcgNyAwIDAgMC03LTd6bTAgOS42YTIuNiAyLjYgMCAxIDEgMC01LjIgMi42IDIuNiAwIDAgMSAwIDUuMnoiIGZpbGw9IiMyMkQzRUUiLz48L3N2Zz4%3D" alt="Hyderabad, India" />
 </p>
 
 ## About me
 
-I'm a Computer Science &amp; IT graduate and an **Engineering Intern at iCustomer**, where most of my days go into validating, cleaning and reporting on production and staging data with SQL and Power BI.
+I'm a Computer Science &amp; IT graduate who recently completed an **engineering internship at iCustomer**, where I validated, cleaned and reported on production and staging data with SQL and Power BI.
 
 My personal projects follow the same rule: **build the pipeline first**, so the dashboard, the forecast or the model on top of it can actually be trusted. So far that has meant a Databricks medallion lakehouse with Prophet forecasting, a CNN-based accident-detection system that won a project expo, and a local AI job-search agent that enforces honest scoring in code.
 
-- **Now:** interning at iCustomer (since June 2026) and building [`job-application-agent`](https://github.com/MallikarjunaRaoPotti/job-application-agent)
+- **Now:** building [`job-application-agent`](https://github.com/MallikarjunaRaoPotti/job-application-agent) and sharpening SQL with [`sql-practice`](https://github.com/MallikarjunaRaoPotti/sql-practice)
+- **Experience:** Engineering Intern at iCustomer (internship completed)
 - **Certified:** Microsoft Certified: Fabric Data Engineer Associate (May 2026)
 - **Looking for:** data engineering, analytics and applied ML roles
 
@@ -172,8 +173,8 @@ ETL and analysis on a messy 99,957-row retail dataset, ending in a clean, analys
 
 ## Experience &amp; credentials
 
-**Engineering Intern · iCustomer** <sub>June 2026 – present</sub><br/>
-Data validation, cleaning and reporting across production and staging datasets with SQL and Power BI, working with engineering and data teams to keep pipelines accurate and consistent.
+**Engineering Intern · iCustomer** <sub>Internship from June 2026 · completed</sub><br/>
+Validated, cleaned and reported on production and staging datasets with SQL and Power BI, working with engineering and data teams to keep pipelines accurate and consistent.
 
 **Microsoft Certified: Fabric Data Engineer Associate** <sub>May 2026</sub><br/>
 Credential ID `BEB4D617C60F16A9`
